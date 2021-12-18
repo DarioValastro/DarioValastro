@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align='center'>
+ 👋 Hi, I'm Dario 👋
+</h1>
 
-<!--
-**DarioValastro/DarioValastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align='center'>
+ 🌱 Persevering, open-minded & curious 🌱
+</h4>
 
-Here are some ideas to get you started:
+<h4 align='center'>
+  🚀 Intersection between business & tech 🚀 
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align='center'>
+  🎓 Double degree student in <a href="https://www.escp.eu/">ESCP Business School</a> & <a href="https://www.polito.it/">Politecnico di Torino<a> 🎓
+</h4>
+  
+</br>
+<div align='center'>
+ <a href="https://www.linkedin.com/in/dario-valastro/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+</br>
+
+<p align='center'>
+  📫 <a href = "mailto: dario.valastro@edu.escp.eu">dario.valastro@edu.escp.eu</a>  📫
+</p>
+  
+<div align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/dariovalastro/dariovalastro"></a> 
+</div>
