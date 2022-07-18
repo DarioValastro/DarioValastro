@@ -27,6 +27,3 @@
   📫 <a href = "mailto: dario.valastro@edu.escp.eu">dario.valastro@edu.escp.eu</a>  📫
 </p>
   
-<div align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/dariovalastro"></a> 
-</div>
