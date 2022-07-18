@@ -28,5 +28,5 @@
 </p>
   
 <div align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/dariovalastro/dariovalastro"></a> 
+  <a href="#"><img src="https://badges.pufler.dev/visits/dariovalastro"></a> 
 </div>
