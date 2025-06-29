@@ -20,6 +20,6 @@
 </br>
 
 <p align='center'>
-  📫 <a href = "mailto: dario.valastro@edu.escp.eu">dario.valastro@edu.escp.eu</a>  📫
+  📫 <a href = "mailto: dario.valastro.1997@gmail.com">dario.valastro.1997@gmail.com</a>  📫
 </p>
   
